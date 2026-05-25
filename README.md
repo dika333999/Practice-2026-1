@@ -7,10 +7,10 @@
 | Шурыгина Диана Эдуардовна | 251-335 | 09.03.02 | Автоматизированные системы обработки информации и управления |
 
 ## Задание
-Задание размещено в папке `task` в файле `README.md`.
+Задание размещено в папке `task` в файле [README.md](https://github.com/dika333999/Practice-2026-1/blob/main/Task/README.md).
 
 ## Вариативная часть задания
-Think like a programmer: How to build Snake using only JavaScript, HTML & CSS. Почитать подробнее можно здесь: 
+Think like a programmer: How to build Snake using only JavaScript, HTML & CSS. Почитать подробнее можно [здесь](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
 
 ## Ответственный по проектной (учебной) практике
 Ермакова Лидия Сергеевна, доцент центра проектной деятельности.
