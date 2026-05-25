@@ -108,7 +108,7 @@
 В рамках практики следует придерживаться заданной структуры git-репозитория, приведённой в файле [git_structure.md](https://github.com/dika333999/Practice-2026-1/blob/main/Task/git_structure.md).
 
 ## Контрольные сроки
-Сроки контрольных мероприятий приведены в файле [terms.md](ссылка).
+Сроки контрольных мероприятий приведены в файле [terms.md](https://github.com/dika333999/Practice-2026-1/blob/main/Task/terms.md).
 ## Литература и интернет-ресурсы
 
 1. Введение в CSS верстку: [MDN Web Docs](https://developer.mozilla.org/ru/docs/Learn_web_development/Core/CSS_layout/Introduction)
